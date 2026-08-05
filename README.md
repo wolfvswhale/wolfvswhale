@@ -28,10 +28,14 @@ The generative video system behind a running short-form series. Remotion, Replic
 
 ## Elsewhere
 
+## Elsewhere
+
+I write up what I find at **[wolfvswhale.github.io](https://wolfvswhale.github.io)** — short, evidence-first reviews of how machine-text detection gets evaluated, each one linking the code and data behind it.
+
 Long-form historical documentary on YouTube, where I do the research, the script, the edit, and the publish. Books on Amazon under two names. Four years as a digital court reporter before any of this, which is where I learned that a transcript is a product and accuracy is the whole product.
 
 ## Working with
 
 Python, JavaScript, Node. Claude Code and agentic tooling daily. n8n and Airtable for automation. Remotion, Replicate, ElevenLabs for generative media. React Native and EAS for the iOS side.
 
-Open to remote work. Reachable through GitHub.
+Open to remote work. Best reached at jesselyell1@gmail.com
