@@ -2,7 +2,7 @@
 
 I write, and I ship software. The two are the same job more often than people expect.
 
-Most of what's here started as a problem in a business I was running. The radon company needed inspection reports that didn't take an afternoon each, so I built the generators. A short-form video series needed a production pipeline that could hold a character's face consistent across a hundred episodes, so I built that. I direct AI coding agents to do the implementation and I own what goes in.
+Most of what's here started as a problem in a business. A radon inspection company needed inspection reports that didn't take an afternoon each, so I built a desktop app. A short-form video series needed a production pipeline that could hold a character's face consistent across a hundred episodes, so I built that. I'm very interested in AI detection, quality gates, and also just helping folks clean up messy workflows.
 
 ## What's here
 
@@ -25,8 +25,6 @@ Three live business systems: a lead-scoring CRM with auto-routing, milestone inv
 ### [ai-persona-video-pipeline](https://github.com/wolfvswhale/ai-persona-video-pipeline)
 
 The generative video system behind a running short-form series. Remotion, Replicate, ElevenLabs, Python, Airtable for production tracking. Sanitized: it's a live commercial series under a pen name, so the persona assets and working tree stay private.
-
-## Elsewhere
 
 ## Elsewhere
 
