@@ -2,7 +2,7 @@
 
 I write, and I ship software. The two are the same job more often than people expect.
 
-Most of what's here started as a problem in a business. A radon inspection company needed inspection reports that didn't take an afternoon each, so I built a desktop app. A short-form video series needed a production pipeline that could hold a character's face consistent across a hundred episodes, so I built that. I'm very interested in AI detection, quality gates, and also just helping folks clean up messy workflows.
+Most of what's here started as a problem in a business. A radon inspection company needed inspection reports that didn't take an afternoon each, so I built a desktop app. A short-form video series needed a production pipeline that could hold a character's face consistent across a hundred episodes, so I built that. I'm very interested in AI detection, quality gates, and AI in general.
 
 ## What's here
 
